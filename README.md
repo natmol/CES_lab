@@ -1,6 +1,5 @@
 # CES_lab
 Parking distance project 
-Natalia, [01.05.19 18:38]
 
 # Requirements: 
 
